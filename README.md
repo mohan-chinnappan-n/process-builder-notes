@@ -19,7 +19,7 @@ if  Lead.Industry == 'Entertainment' :
 
 	1. Opportunity.Amount            >= $30,000
 	2. AND Opportunity.Probability   >=  50% 
-	3.          OR Opportunity.Stage == 'Value Proposition'
+	3. OR Opportunity.Stage == 'Value Proposition'
 	
 	So the logic needed is : **1 AND (2 OR 3)**
 
