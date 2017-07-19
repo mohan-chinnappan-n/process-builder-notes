@@ -29,7 +29,7 @@ Demo showing the Opportunity Assignment :
 ![Oppty Assignment Rule](./oppty-routing-2.gif)
 
 
-- Post to Chatter page of the user (to whom this newly created Opportunity is assigned to) about this assignmet:
+- **Post to Chatter page of the user** (to whom this newly created Opportunity is assigned to) about this assignmet:
 
 Example:
 ``` Opportunity: 800 solar panels with amount: 34,000 in stage:Value Proposition is just routed to you!
