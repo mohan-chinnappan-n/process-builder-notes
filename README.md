@@ -34,7 +34,7 @@ So the logic needed is : **1 AND (2 OR 3)**
 Example:
 ``` Opportunity: 800 solar panels with amount: 34,000 in stage:Value Proposition is just routed to you!
 ```
--------
+<hr/>
 
 **Demo showing the chatter post:**
 
