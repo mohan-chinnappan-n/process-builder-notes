@@ -1,6 +1,6 @@
 ## SFDC Process Builder notes
 
-### I. How to use Process Builder to provide Opportunity Assignment Rules feature (like Lead and Case Assignment rules)?
+#### I. How to use Process Builder to provide Opportunity Assignment Rules feature (like Lead and Case Assignment rules)?
 
 
 Screenshot showing sample Lead Assignment Rule:
@@ -24,7 +24,7 @@ if  Lead.Industry == 'Entertainment' :
 So the logic needed is : **1 AND (2 OR 3)**
 
 
-Demo showing the Opportunity Assignment :
+**Demo showing the Opportunity Assignment :**
 
 ![Oppty Assignment Rule](./oppty-routing-2.gif)
 
@@ -35,7 +35,7 @@ Example:
 ``` Opportunity: 800 solar panels with amount: 34,000 in stage:Value Proposition is just routed to you!
 ```
 
-Demo showing the chatter post:
+**Demo showing the chatter post:**
 
 ![Oppty Assignment Rule](./oppty-routing-with-chatter-post.gif)
 
