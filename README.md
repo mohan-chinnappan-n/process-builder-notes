@@ -17,11 +17,11 @@ if  Lead.Industry == 'Entertainment' :
 
 - Assign the owner for the Opportunity record being created based on this Criteria:
 
-	A. Opportunity.Amount            >= $30,000
-	B. AND Opportunity.Probability   >=  50% 
-	C. OR Opportunity.Stage == 'Value Proposition'
+1. Opportunity.Amount            >= $30,000
+2. AND Opportunity.Probability   >=  50% 
+3. OR Opportunity.Stage == 'Value Proposition'
 	
-	So the logic needed is : **A AND (B OR C)**
+So the logic needed is : **1 AND (2 OR 3)**
 
 
 Demo showing the Opportunity Assignment :
