@@ -10,7 +10,7 @@ if  Lead.Industry == 'Entertainment' :
 	assign_to('this_user')
 ```
 
-![Lead Assignment Rule](./lead-assignment-rule.png)
+![Lead Assignment Rule](./img/lead-assignment-rule.png)
 
 
 #### Use case
@@ -26,7 +26,7 @@ So the logic needed is : **1 AND (2 OR 3)**
 
 **Demo showing the Opportunity Assignment :**
 
-![Oppty Assignment Rule](./oppty-routing-2.gif)
+![Oppty Assignment Rule](./img/oppty-routing-2.gif)
 
 
 - **Post to Chatter page of the user** (to whom this newly created Opportunity is assigned to) about this assignmet:
@@ -38,7 +38,7 @@ Example:
 
 **Demo showing the chatter post:**
 
-![Oppty Assignment Rule](./oppty-routing-with-chatter-post.gif)
+![Oppty Assignment Rule](./img/oppty-routing-with-chatter-post.gif)
 
 
 
