@@ -32,6 +32,7 @@ So the logic needed is : **1 AND (2 OR 3)**
 - **Post to Chatter page of the user** (to whom this newly created Opportunity is assigned to) about this assignmet:
 
 Example:
+
 ``` Opportunity: 800 solar panels with amount: 34,000 in stage:Value Proposition is just routed to you!
 ```
 <hr/>
