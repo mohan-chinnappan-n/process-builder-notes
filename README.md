@@ -44,4 +44,6 @@ Opportunity: 800 solar panels with amount: 34,000 in stage:Value Proposition is 
 ![Oppty Assignment Rule](./img/oppty-routing-with-chatter-post.gif)
 
 
+![Compare tools 1 ](./img/compare-1.png)
+![Compare tools 2 ](./img/compare-2.png)
 
