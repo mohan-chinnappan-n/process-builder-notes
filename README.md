@@ -48,3 +48,4 @@ Opportunity: 800 solar panels with amount: 34,000 in stage:Value Proposition is 
 ![Compare tools 1 ](./img/compare-0.png)
 ![Compare tools 2 ](./img/compare-1.png)
 
+[Ref](https://trailhead.salesforce.com/modules/business_process_automation/units/process_whichtool)
