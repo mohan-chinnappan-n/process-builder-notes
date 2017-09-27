@@ -63,6 +63,20 @@ You can assign up to 100 coworkers an independent copy of the same task:
 ##### Recurring task support
 ![Recurring task](img/recurring-task.png)
 
+------
+
+#### Task update using Process Builder
+
+**Use case**
+
+```
+ When the an Opportunity field (say OwnerId) got updated, use process builder to update related (in-progress) tasks
+
+```
+![Process Builder Task Update](img/process-builder-oppty-ownership-changed-2.gif)
+
+
+
 
 #### References
 
