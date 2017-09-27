@@ -70,7 +70,8 @@ You can assign up to 100 coworkers an independent copy of the same task:
 **Use case**
 
 ```
- When the an Opportunity field (say OwnerId) got updated, use process builder to update related (in-progress) tasks
+ When the an Opportunity field (say OwnerId) got updated, 
+ use process builder to update related (in-progress) tasks
 
 ```
 ![Process Builder Task Update](img/process-builder-oppty-ownership-changed-2.gif)
