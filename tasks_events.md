@@ -90,6 +90,6 @@ You can assign up to 100 coworkers an independent copy of the same task:
 7. [Replacing Apex Triggers with Invocable Actions](http://www.desynit.com/dev-zone/salesforce-development/replacing-apex-triggers-processes-invocable-actions/)
 8. [Triggers and Order of Execution](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_triggers_order_of_execution.htm)
 9. [Process Automation: Figure Out Which Tool To Use](https://trailhead.salesforce.com/modules/business_process_automation/units/process_whichtool)
-
+10. [InvocableMethod Annotation](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableMethod.htm)
 
 
