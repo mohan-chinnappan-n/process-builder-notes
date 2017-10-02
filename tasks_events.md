@@ -91,5 +91,10 @@ You can assign up to 100 coworkers an independent copy of the same task:
 8. [Triggers and Order of Execution](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_triggers_order_of_execution.htm)
 9. [Process Automation: Figure Out Which Tool To Use](https://trailhead.salesforce.com/modules/business_process_automation/units/process_whichtool)
 10. [InvocableMethod Annotation](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableMethod.htm)
+11. [Process Builder Process fails with an error: ALL_OR_NONE_OPERATION_ROLLED_BACK](https://help.salesforce.com/articleView?id=000247671&type=1)
+12. [AllOrNoneHeader](https://developer.salesforce.com/docs/atlas.en-us.204.0.api_meta.meta/api_meta/meta_allornoneheader.htm)
+13. [Troubleshoot Processes with Apex Debug Logs](https://help.salesforce.com/articleView?id=process_troubleshoot_debuglogs.htm&type=5)
+
+
 
 
